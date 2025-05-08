@@ -26,7 +26,6 @@ logger.info('API is starting up')
 origins = [
     "http://localhost",
     "https://localhost:3000",
-    "https://assistifyai-fe-h2aveuccbsc2hfc0.canadacentral-01.azurewebsites.net",
 ]
 
 # Add CORS middleware
